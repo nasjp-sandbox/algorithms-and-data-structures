@@ -29,5 +29,4 @@ func TestMaximumProfit(t *testing.T) {
 			}
 		})
 	}
-
 }
