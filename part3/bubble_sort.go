@@ -1,11 +1,11 @@
 package part3
 
-type BubleSortOut struct {
+type BubbleSortOut struct {
 	Out       []int
 	SwapCount int
 }
 
-func BubleSort(in []int) *BubleSortOut {
+func BubbleSort(in []int) *BubbleSortOut {
 	var swap int
 
 	for flag, i := true, 0; flag; {
@@ -21,7 +21,7 @@ func BubleSort(in []int) *BubleSortOut {
 		i++
 	}
 
-	return &BubleSortOut{
+	return &BubbleSortOut{
 		Out:       in,
 		SwapCount: swap,
 	}
