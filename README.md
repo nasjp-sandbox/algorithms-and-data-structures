@@ -1,4 +1,4 @@
-[![test](https://github.com/nasjp-sandbox/algorithms-and-data-structures/actions)](https://github.com/nasjp-sandbox/algorithms-and-data-structures/workflows/test/badge.svg)
+[![test](https://github.com/nasjp-sandbox/algorithms-and-data-structures/workflows/test/badge.svg)](https://github.com/nasjp-sandbox/algorithms-and-data-structures/actions)
 
 # Algorithms and Data Structures
 
