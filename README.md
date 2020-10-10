@@ -11,3 +11,7 @@
 - [選択ソート](part3/selection_sort.go)
 - [安定なソート](part3/stable_sort.go)
 - [シェルソート](part3/shell_sort.go)
+
+## [データ構造](part4)
+
+- [スタック](part4/stack.go)
